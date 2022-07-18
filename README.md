@@ -14,7 +14,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-SQL" height="30" width="40" src="https://www.flaticon.com/free-icon/sql-server_5968364?term=sql%20server&page=1&position=1&page=1&position=1&related_id=5968364&origin=tag">
+  <img align="center" alt="Rafa-SQL" height="30" width="40" src="file:///C:/Users/User/Downloads/sql-server.svg">
 </div>
 
  ## 
