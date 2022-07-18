@@ -1,6 +1,6 @@
 
 
-- 🔭 Hoje trabalho com PL/SQL, dando suporte técnico à aplicação de apuração de impostos pw.SATI.
+- 🔭 Hoje trabalho com T-SQL, dando suporte técnico à projetos da empresa ECORODOVIAS.
 - 🌱 Estudondo Python
 
 <div align="center">
