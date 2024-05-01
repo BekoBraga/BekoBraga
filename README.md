@@ -1,8 +1,5 @@
 
 
-- 🔭 Hoje trabalho com T-SQL, dando suporte técnico à projetos da empresa ECORODOVIAS.
-- 🌱 Estudando Python
-
 <div align="center">
   <a href="https://github.com/BekoBraga">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BekoBraga&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
